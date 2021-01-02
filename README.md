@@ -7,7 +7,7 @@
 - 🔭 I just started my 100 Days Of Code Challenge!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Master Web Development Contribute more to Open Source projects
+- 🥅 2021 Goals: Master Web Development and complete Portfolio Website
 - ⚡ Fun fact: I love to sing though i suck 🤣
 - 📫 You Can Reach Me At bansalvansh77@gmail.com
 <img align="right" alt="Coding" width="400" SRC="https://i.pinimg.com/originals/88/e5/a4/88e5a4a52f0d7725c5e56364422b79fc.gif">
@@ -41,9 +41,9 @@
 <br />
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshb01&show_icons=true&locale=en&layout=compact" alt="vanshb01" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshb01&show_icons=true&locale=en&layout=compact" alt="vanshb01" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshb01&show_icons=true&locale=en" alt="vanshb01" /></p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshb01&show_icons=true&locale=en" alt="vanshb01" /></p>
 
 
 
