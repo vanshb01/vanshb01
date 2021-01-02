@@ -32,7 +32,7 @@
  <a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank"><img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" alt="js" width="40" height="40"></a>
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
    <img src="https://cdn.iconscout.com/icon/free/png-512/mysql-19-1174939.png" width="50" height="40">
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> 
+ <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href=" https://www.adobe.com/in/products/xd.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1051px-Adobe_XD_CC_icon.svg.png"  alt="xd" width="40" height="40"></a>
 
   
@@ -41,10 +41,16 @@
 <br />
 
 
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img align="left" alt="vansh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vanshb01&show_icons=true&locale=en" alt="vanshb01" />
+  <img align="left" alt="vansh's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshb01&show_icons=true&locale=en&layout=compact" alt="vanshb01">
+
+</details>
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshb01&show_icons=true&locale=en&layout=compact" alt="vanshb01" /></p>
 
-<P>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshb01&show_icons=true&locale=en" alt="vanshb01" /></p>
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshb011&label=Profile%20views&color=129e00&style=plastic" alt="vanshb011" /> </p>
+
