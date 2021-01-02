@@ -44,11 +44,12 @@
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="vansh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vanshb01&show_icons=true&locale=en" alt="vanshb01" />
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshb01&label=Profile%20views&color=129e00&style=plastic" alt="vanshb01" /> </p>
   <img align="left" alt="vansh's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshb01&show_icons=true&locale=en&layout=compact" alt="vanshb01">
 
 </details>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshb01&label=Profile%20views&color=129e00&style=plastic" alt="vanshb01" /> </p>
+
 
 
 
