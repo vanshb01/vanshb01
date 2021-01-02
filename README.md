@@ -5,8 +5,7 @@
 <br>
 
 - 🔭 I just started my 100 Days Of Code Challenge!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning JavaScript and Node.js
 - 🥅 2021 Goals: Master Web Development and complete Portfolio Website
 - ⚡ Fun fact: I love to sing though i suck 🤣
 - 📫 You Can Reach Me At bansalvansh77@gmail.com
